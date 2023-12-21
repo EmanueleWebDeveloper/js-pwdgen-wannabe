@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    background-color: blueviolet;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0 auto;
+    margin-block: 100px;
+    gap: 20px;
+}
